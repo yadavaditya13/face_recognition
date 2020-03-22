@@ -9,27 +9,27 @@ Note : I have places a few datasets for example in dataset folder and one exampl
 
 The structure of your project folder must look like : 
 for example-
-
-├── dataset
-│   ├── person1 [no. of entries]
-│   ├── person2 [no. of entries]
-│   ├── person3 [no. of entries]
-│   ├── person4 [no. of entries]
-│   ├── person5 [no. of entries]
-│   └── person6 [no. of entries]
-├── examples
-│   ├── example_01.png
-│   ├── example_02.png
-│   └── example_03.png
-├── output
-│   └── video1_output.avi
-├── videos
-│   └── video1.mp4
-├── encode_faces.py
-├── recognize_faces_image.py
-├── recognize_faces_video.py
-├── recognize_faces_video_file.py
-└── encodings.pickle
+ 
+├── 1) dataset
+│   ├── 1.a) person1 [no. of entries]
+│   ├── 1.b) person2 [no. of entries]
+│   ├── 1.c) person3 [no. of entries]
+│   ├── 1.d) person4 [no. of entries]
+│   ├── 1.e) person5 [no. of entries]
+│   └── 1.f) person6 [no. of entries]
+├── 2) examples
+│   ├── 2.a) example_01.png
+│   ├── 2.b) example_02.png
+│   └── 2.c) example_03.png
+├── 3) output
+│   └── 3.a) video1_output.avi
+├── 4) videos
+│   └── 4.a) video1.mp4
+├── 5) encode_faces.py
+├── 6) recognize_faces_image.py
+├── 7) recognize_faces_video.py
+├── 8) recognize_faces_video_file.py
+└── 9) encodings.pickle
 
 encodings.pickle file will be created when you will run encode_faces.py file.
 

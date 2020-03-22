@@ -9,11 +9,11 @@ Note : I have places a few datasets for example in dataset folder and one exampl
 
 The structure of your project folder must look like : 
 for example-
- 
-├── 1) dataset
-│   ├── 1.a) person1 [no. of entries]
-│   ├── 1.b) person2 [no. of entries]
-│   ├── 1.c) person3 [no. of entries]
+
+├── 1) dataset														
+│   ├── 1.a) person1 [no. of entries]											
+│   ├── 1.b) person2 [no. of entries]											
+│   ├── 1.c) person3 [no. of entries]											
 │   ├── 1.d) person4 [no. of entries]
 │   ├── 1.e) person5 [no. of entries]
 │   └── 1.f) person6 [no. of entries]
